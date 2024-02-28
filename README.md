@@ -3,3 +3,6 @@
 
 ## Authors
 James McCutcheon
+
+## License
+GPU
